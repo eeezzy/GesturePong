@@ -2,6 +2,8 @@
 
 A game that uses **gesture recognition** to play the classic Pong — with your hands!
 
+![Gameplay Screenshot](./assets/thumbnail.png)
+
 ---
 
 ## 🎮 Description
